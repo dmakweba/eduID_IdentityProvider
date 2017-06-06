@@ -15,12 +15,12 @@ idp:
   description: IdP for the Tanzanian Science Gateways
   logo: logo-ternet.jpg
   
-federation: eduID_tz
-registration_authority: https://eduid.ubuntunet.net
+#federation: eduID_tz
+#registration_authority: https://eduid.ubuntunet.net
 #metadata_url: https://rr.ubuntunet.net/metadata/federation/{{ federation }}/metadata.xml
-metadata_url: https://rr.ubuntunet.net/signedmetadata/federation/{{ federation }}/metadata.xml
-metadata_file: metadata.xml
-disregard_tsl_certificate: false
+#metadata_url: https://rr.ubuntunet.net/signedmetadata/federation/{{ federation }}/metadata.xml
+#metadata_file: metadata.xml
+#disregard_tsl_certificate: false
 
 federation: Grid_test
 registration_authority: https://gridp.garr.it
