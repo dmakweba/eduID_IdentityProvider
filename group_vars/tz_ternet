@@ -65,10 +65,10 @@ service_providers:
   #   name: AnotherSP
   #   entity_id: https://gridp.garr.it/metadata/gridp-test.xml 
   #   attributes:
-  #     - surname
-  #     - given name
-  #	- email
-  #     - eduPersonPrincipalName
-  #     - eduPersonTargetedID
+      - surname
+      - given name
+      - uid
+      - eduPersonPrincipalName
+      - eduPersonTargetedID
 
 
