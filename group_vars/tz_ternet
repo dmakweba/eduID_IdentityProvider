@@ -79,6 +79,13 @@ service_providers:
       - eduPersonPrincipalName
       - mail
 
+  -
+    name:  Discourse on Open e-Infrastructures for Open Science
+    entity_id: http://discourse.sci-gaia.eu/shibboleth
+    attributes:
+      - eduPersonPrincipalName
+      - mail
+
  # -
   #   name: AnotherSP
   #   entity_id: https://gridp.garr.it/metadata/gridp-test.xml 
