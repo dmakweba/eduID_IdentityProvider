@@ -81,7 +81,7 @@ service_providers:
 
   -
     name:  Discourse on Open e-Infrastructures for Open Science
-    entity_id: http://discourse.sci-gaia.eu/shibboleth
+    entity_id: https://discourse.sci-gaia.eu/shibboleth
     attributes:
       - eduPersonPrincipalName
       - mail
